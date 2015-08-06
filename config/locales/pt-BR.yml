@@ -1,0 +1,7 @@
+# Portuguese Brazilian strings go here for Rails i18n
+pt-BR:
+  trackcontrol_create_tracker: "Criar tipo %{value}"
+  trackcontrol_show_tracker: "Exibir tipo %{value}"
+  notice_no_valid_trackers_available: "Nenhum tipo válido está disponível. Por favor procure o Administrador do Redmine para assistência."
+  trackcontrol_tracker_not_allowed: "não permitido"
+  error_no_tracker_in_project: "Não há um tipo de tarefa associado a este projeto. Favor verificar as configurações do projeto."
